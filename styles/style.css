@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Epilogue';
+    font-size: 62.5%; /* 10px*/
+
+}
+
+.nav-header {
+    background-color: orange;
+    height: 100%;
+    width: 100%;
+}
+
+/* Get back to this later */
+.nav-item {
+    list-style: none;
+}
